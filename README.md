@@ -1,7 +1,7 @@
 # Mining Data with Morlet Wavelets - Historical Crypto Cycle Analysis
 
 
-# Crypto ETF Formulation
+# Crypto ETF 
 
 ![alt text](image.png)
 
@@ -14,9 +14,6 @@
 | Max Drawdown        | -0.800194        |
 | Alpha               | 0.647176         |
 | Beta                | 1.608164         |
-
-
-This document provides the key formulas used for calculating an index out of assets.
 
 ---
 

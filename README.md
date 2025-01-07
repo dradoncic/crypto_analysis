@@ -17,6 +17,10 @@
 
 ---
 
+These formulas form the foundation for calculating and managing an equal-weighted ETF.
+
+---
+
 ## 1. Initial Shares Calculation
 The number of initial shares to hold for each asset is calculated as:
 ```math
@@ -62,7 +66,4 @@ After rebalancing, the new shares for each asset are calculated as:
 \text{New Shares (per asset)} = \frac{\text{Adjusted Target Investment (per asset)}}{\text{Price (per share)}}
 ```
 
----
-
-These formulas form the foundation for calculating and managing an index based on multiple assets.
 

@@ -5,8 +5,16 @@
 
 ![alt text](image.png)
 
-	Annualized Return	Volatility	Sharpe Ratio	Sortino Ratio	Max Drawdown	Alpha	Beta
-Crypto ETF	0.916497	0.652803	1.373304	1.896141	-0.800194	0.647176	1.608164
+| Metric              | Crypto ETF Value |
+|---------------------|------------------|
+| Annualized Return   | 0.916497         |
+| Volatility          | 0.652803         |
+| Sharpe Ratio        | 1.373304         |
+| Sortino Ratio       | 1.896141         |
+| Max Drawdown        | -0.800194        |
+| Alpha               | 0.647176         |
+| Beta                | 1.608164         |
+
 
 This document provides the key formulas used for calculating an index out of assets.
 

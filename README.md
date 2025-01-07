@@ -17,7 +17,7 @@
 
 ---
 
-These formulas form the foundation for calculating and managing an equal-weighted ETF.
+The following formulas form the foundation for calculating and managing an equal-weighted ETF. The cryptocurrencies that make up the ETF are as follows: Bitcoin, BNB, Cardano, Ethereum, Solana, XRP.
 
 ---
 

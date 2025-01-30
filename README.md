@@ -1,5 +1,18 @@
 # Mining Data with Morlet Wavelets - Historical Crypto Cycle Analysis
 
+![alt text](image-1.png)
+
+---
+Using Morlet Wavelets we are able to capture both frequency and time. We can then reconstruct the curve to uncover any mid-long term trends we were looking for. This method is fairly effective at producing a pure denoised signal, but more research has to be done as to why the y-axis is scaled so disproportionately. 
+
+---
+![alt text](image-2.png)
+
+---
+
+One disadvantage of using an Fast Fourier Transform is that it only takes frequency into consideration and not time, thus it is more difficult to rebuild an accurate denoised signal. Further, the FFT assumes stationarity, thus Morlet Wavelets are more robust then the common FFT.
+
+---
 
 # Crypto ETF 
 
